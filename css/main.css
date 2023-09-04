@@ -78,12 +78,15 @@ video {
 
 .section-4 {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
 .section-4 .box {
   width: 45%;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 .section-5 {
