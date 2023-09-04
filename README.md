@@ -4,7 +4,7 @@ Intégrez la maquette, **sans modifier le HTML**.
 
 Les éléments nécessaires à l'intégration se trouvent dans le dossier **\_consigne**.
 
-Utilisez la **maquette Sketch** pour récupérer les bonnes informations (par exemple typographie et marges).
+Utilisez la **maquette Figma** pour récupérer les bonnes informations (par exemple typographie et marges).
 
 ## Variables CSS
 
