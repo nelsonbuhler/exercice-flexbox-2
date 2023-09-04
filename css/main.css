@@ -78,17 +78,20 @@ video {
 
 .section-4 {
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
-  justify-content: space-around;
 }
 
 .section-4 .box {
-  width: 50%;
-  margin-left: 0px;
-  margin-right: 0px;
+  width: 45%;
 }
 
 .section-5 {
+  justify-content: end;
+}
+
+.box-4 {
+  height: 10%;
 }
 
 /* ====================================
