@@ -90,11 +90,13 @@ video {
 }
 
 .section-5 {
+  display: flex;
   justify-content: end;
+  align-items: flex-end;
 }
 
 .box-4 {
-  height: 10%;
+  justify-content: stretch;
 }
 
 /* ====================================
